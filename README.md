@@ -6,6 +6,7 @@ https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/
 
 ```sh
 make build-venv
+
 # Ou:
 # python3.7 -m venv venv
 ```
